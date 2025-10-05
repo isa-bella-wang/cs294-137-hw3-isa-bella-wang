@@ -2,6 +2,9 @@
 
 # Video
 <a> https://drive.google.com/file/d/1voi3Av3B8ovTEMUnAvhwn0OHXwPInJk6/view?usp=sharing </a>
+# Zip File
+In case the gihub doesnt upload corrently
+<a> https://drive.google.com/file/d/1zx5y3xlliimspel3_JKHyN0ro9isKk84/view?usp=sharing </a>
 
 # Game Overview
 
